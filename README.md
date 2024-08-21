@@ -24,7 +24,7 @@ The final exam will be held in the Auditorium on the first floor of the ICT on J
 
 | Date | Slides | Supplements | Homework | Solution |
 | ---- | ------ | ----------- | -------- | -------- |
-| 2019.10.21 | [Lecture-1](Lecture-1.pdf) | [Monty Hall, Paul Erdos, and Monte Carlo](Monty%20Hall,%20Paul%20Erdos,%20and%20Monte%20Carlo.pdf), [monty hall problem solution](monty hall problem solution.pdf) | [HW-1](HW%20Week%201.pdf) | [HW-1 solution](hw1_sol.pdf) |
+| 2019.10.21 | [Lecture-1](Lecture-1.pdf) | [Monty Hall, Paul Erdos, and Monte Carlo](Monty%20Hall,%20Paul%20Erdos,%20and%20Monte%20Carlo.pdf), [monty hall problem solution](monty%20hall%20problem%20solution.pdf) | [HW-1](HW%20Week%201.pdf) | [HW-1 solution](hw1_sol.pdf) |
 | 2019.10.28 | [Lecture-2](Lecture_2.pdf) |  | [HW-2](HW_Week_2.pdf) | [HW-2 solution](hw2_sol.pdf) |
 | 2019.11.05 | [Lecture-3](Lecture_3.pdf) |  | [HW-3](HW_Week_3.pdf) | [HW-3 solution](HW_W3.docx) |
 | 2019.11.11 | [Lecture-4](Lecture_4.pdf) |  | [HW-4](HW_Week_4.pdf) | [HW-4 solution](HW_W4.docx) |
